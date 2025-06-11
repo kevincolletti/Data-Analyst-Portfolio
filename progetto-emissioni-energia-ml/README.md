@@ -12,3 +12,4 @@ Include una previsione al 2035 tramite modelli di machine learning.
 ## Presentazione
 📁 `presentazione/` 
 - `emissioni-rinnovabili.pdf`
+- Questo progetto è stato realizzato come parte di un percorso formativo su Data Analysis & Machine Learning.
